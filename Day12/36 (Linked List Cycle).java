@@ -1,5 +1,4 @@
-public class Solution {
-    class ListNode {
+37    class ListNode {
         int val;
         ListNode next;
 
